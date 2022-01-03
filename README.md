@@ -14,8 +14,8 @@ Materi
   - Rekusif
   - search
   - Sorting
-  - SBTTK(Senerai berantai)
-  - SBGKB(senerai berantai)
+  - SBTTK(Senerai berantai tunggal tidak berkepala)
+  - SBGKB(senerai berantai ganda berkepala berputar)
   - Stack
   - Queue
   
