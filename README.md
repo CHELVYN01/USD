@@ -5,6 +5,10 @@ Materi
   - GUI 
   - STREAM 
   - String 
+  - Event Handling
+  - Exception Handling
+  - JDBC
+  - Theread
   - revisi PBO 1
 - SDL 
   - Rekusif
