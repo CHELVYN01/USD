@@ -19,3 +19,8 @@ Materi
   - Stack
   - Queue
   
+- SDNL
+  - Graph
+  - TreeNode
+  - algoritma Prim
+  
